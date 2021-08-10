@@ -9,25 +9,40 @@ from kivy.uix.widget import Widget
 from kivy.graphics import *
 
 
+class HeaderSection(BoxLayout):
+    def __init__(self, top, bottom, **kwargs):
+        super().__init__(**kwargs)
+        self.orientation = 'vertical'
+        self.top_label = Label(text=top)
+        self.bottom_label = Label(text=bottom)
+        self.add_widget(self.top_label)
+        self.add_widget(self.bottom_label)
+
+
 class Header(BoxLayout):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.orientation = 'horizontal'
         self.size_hint_y = .1
-        self.far_left = BoxLayout(orientation = 'vertical')
         date = datetime.date.today()
         date_string = str(date.month) + ' ' + str(date.day) + ', ' + str(date.year)
-        self.far_left.add_widget(Label(text='Date ' + date_string))
-        self.far_left.add_widget(Label(text='Transactions: 0'))
+        self.far_left = HeaderSection('Date ' + date_string, 'Transactions: 0')
 
-        self.middle_left = BoxLayout(orientation = 'vertical')
         t = datetime.datetime.now()
-        time_string = str(t.hour) + ':' + str(t.minute) + str(t.second)
-        self.middle_left.add_widget(Label(text='Hi, John'))
-        self.middle_left.add_widget(Label(text=time_string))
+        time_string = str(t.hour) + ':' + str(t.minute)+ ":" + str(t.second)
+        self.middle_left = HeaderSection('Hi, John', time_string)
 
         self.add_widget(self.far_left)
         self.add_widget(self.middle_left)
+
+    def update(self):
+        date = datetime.date.today()
+        date_string = str(date.month) + ' ' + str(date.day) + ', ' + str(date.year)
+        self.far_left.top_label.text = date_string
+
+        t = datetime.datetime.now()
+        time_string = str(t.hour) + ':' + str(t.minute) + ':' + str(t.second)
+        self.middle_left.bottom_label.text = time_string
 
 
 class MainSelectionScreen(BoxLayout):
@@ -41,11 +56,12 @@ class MainScreen(BoxLayout):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.orientation = 'vertical'
-        self.add_widget(Header())
+        self.header = Header()
+        self.add_widget(self.header)
         self.add_widget(MainSelectionScreen())
 
     def update(self, _):
-        pass
+        self.header.update()
 
 
 class RegisterApp(App):

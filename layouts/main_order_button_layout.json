@@ -1,0 +1,11 @@
+[
+  ["VOID SALE", 1, "red"],
+  ["SCAN MODE", 1, "gray"],
+  ["MENU MODE", 1, "blue"],
+  ["ECR MODE", 1, "gray"],
+  ["DISCOUNT", 1, "yellow"],
+  ["DELETE\nITEM", 1, "red"],
+  ["QUANTITY", 1, "yellow"],
+  ["", 1, "gray"],
+  ["RECALL", 2, "green"]
+]

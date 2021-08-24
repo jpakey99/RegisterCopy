@@ -17,7 +17,7 @@ class Header(BoxLayout):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.orientation = 'horizontal'
-        self.size_hint_y = .1
+        self.size_hint_y = .05
         date = datetime.date.today()
         date_string = str(date.month) + ' ' + str(date.day) + ', ' + str(date.year)
         self.far_left = HeaderSection('Date ' + date_string, 'Transactions: 0')

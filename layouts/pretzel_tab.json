@@ -1,0 +1,98 @@
+{
+  "tab_1": [
+    ["1\nPretzel", 1, "green", 1.25], ["3\nPretzel", 1, "green", 3], ["5\nPretzel", 1, "green", 5], ["10\nPretzel", 1, "green", 10],
+    ["", 1, "gray", 0], ["20\nPretzel", 1, "gray", 14], ["25\nCrowd\nPleaser", 1, "gray", 17], ["50\nPretzel", 1, "gray", 25],
+    ["100\nPretzel", 1, "green", 1.25], ["500\nPretzel", 1, "green", 3], ["1000\nPretzel", 1, "green", 5], ["Family\nPack", 1, "green", 10],
+    ["Mini\nRow", 1, "gray", 0], ["0", 1, "gray", 0], ["", 1, "gray", 0], ["Rivet\nShaker", 1, "gray", 3],
+    ["Small\nBox", 1, "green", 5], ["Large\nBox", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["Rivet\nBucket", 1, "gray", 14], ["Cinn\nTwist", 1, "gray", 17], ["15 for\n$5.00", 1, "gray", 5],
+    ["NHHD", 1, "green", 1.25], ["NPD", 1, "green", 3], ["3rd\nParty\nDelivery", 1, "green", 5], ["", 1, "green", 10],
+    ["Coupon Pretzels", 1, "blue", 0], ["Custom\nPretzel", 1, "yellow", 14], ["Delivery\nFee", 1, "yellow", 17], ["Wholesale", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ],
+  "tab_2": [
+    ["Small Rivet\nTray", 1, "green", 27], ["Large Rivet\nTray", 1, "green", 37], ["Mini Pretzel\nTray", 1, "green", 5], ["Combo Tray\nMini Dogs\n& Rviets", 1, "green", 10],
+    ["Combo Tray\n All Mini\nDogs", 1, "gray", 0], ["Combo Tray\nMini Chz\nSteak\n& Rivets", 1, "gray", 14], ["Combo Tray\nMini Chz\nSteak\n& Mini Dogs", 1, "gray", 17], ["Combo Tray\nAll Mini Chz\nSteak\n", 1, "gray", 25],
+    ["", 1, "green", 1.25], ["", 1, "green", 3], ["", 1, "green", 5], ["", 1, "green", 10],
+    ["", 1, "gray", 0], ["", 1, "gray", 0], ["", 1, "gray", 0], ["", 1, "gray", 3],
+    ["", 1, "green", 5], ["", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["", 1, "gray", 14], ["", 1, "gray", 17], ["", 1, "gray", 5],
+    ["", 1, "green", 1.25], ["", 1, "green", 3], ["", 1, "green", 5], ["", 1, "green", 10],
+    ["", 1, "blue", 0], ["", 1, "yellow", 14], ["", 1, "yellow", 17], ["", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ],
+  "tab_3": [
+    ["Pretzel Dog", 1, "green", 1.25], ["", 1, "green", 3], ["Spicy\nSausage", 1, "green", 5], ["", 1, "green", 10],
+    ["Mini Chz\nSteak Cup", 1, "gray", 0], ["", 1, "gray", 14], ["Melt\nPepperoni", 1, "gray", 17], ["", 1, "gray", 25],
+    ["", 1, "green", 1.25], ["", 1, "green", 3], ["", 1, "green", 5], ["", 1, "green", 10],
+    ["", 1, "gray", 0], ["", 1, "gray", 0], ["", 1, "gray", 0], ["", 1, "gray", 3],
+    ["", 1, "green", 5], ["", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["", 1, "gray", 14], ["", 1, "gray", 17], ["", 1, "gray", 5],
+    ["", 1, "green", 1.25], ["", 1, "green", 3], ["", 1, "green", 5], ["", 1, "green", 10],
+    ["Coupon\nMeats", 1, "blue", 0], ["", 1, "yellow", 14], ["", 1, "yellow", 17], ["", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ],
+  "tab_4": [
+    ["Soda", 1, "green", 1.25], ["Bottle Water", 1, "green", 3], ["", 1, "green", 5], ["", 1, "green", 10],
+    ["", 1, "gray", 0], ["", 1, "gray", 14], ["", 1, "gray", 17], ["", 1, "gray", 25],
+    ["", 1, "green", 1.25], ["", 1, "green", 3], ["", 1, "green", 5], ["", 1, "green", 10],
+    ["Pure Leaf\nTea", 1, "gray", 0], ["", 1, "gray", 0], ["", 1, "gray", 0], ["", 1, "gray", 3],
+    ["", 1, "green", 5], ["", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["", 1, "gray", 14], ["", 1, "gray", 17], ["", 1, "gray", 5],
+    ["", 1, "green", 1.25], ["", 1, "green", 3], ["", 1, "green", 5], ["", 1, "green", 10],
+    ["Coupon\nDrinks", 1, "blue", 0], ["", 1, "yellow", 14], ["", 1, "yellow", 17], ["", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ],
+  "tab_5": [
+    ["1\nPretzel", 1, "green", 1.25], ["3\nPretzel", 1, "green", 3], ["5\nPretzel", 1, "green", 5], ["10\nPretzel", 1, "green", 10],
+    ["", 1, "gray", 0], ["20\nPretzel", 1, "gray", 14], ["25\nCrowd\nPleaser", 1, "gray", 17], ["50\nPretzel", 1, "gray", 25],
+    ["100\nPretzel", 1, "green", 1.25], ["500\nPretzel", 1, "green", 3], ["1000\nPretzel", 1, "green", 5], ["Family\nPack", 1, "green", 10],
+    ["Mini\nRow", 1, "gray", 0], ["0", 1, "gray", 0], ["", 1, "gray", 0], ["Rivet\nShaker", 1, "gray", 3],
+    ["Small\nBox", 1, "green", 5], ["Large\nBox", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["Rivet\nBucket", 1, "gray", 14], ["Cinn\nTwist", 1, "gray", 17], ["15 for\n$5.00", 1, "gray", 5],
+    ["NHHD", 1, "green", 1.25], ["NPD", 1, "green", 3], ["3rd\nParty\nDelivery", 1, "green", 5], ["", 1, "green", 10],
+    ["Coupon Pretzels", 1, "blue", 0], ["Custom\nPretzel", 1, "yellow", 14], ["Delivery\nFee", 1, "yellow", 17], ["Wholesale", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ],
+  "tab_6": [
+    ["1\nPretzel", 1, "green", 1.25], ["3\nPretzel", 1, "green", 3], ["5\nPretzel", 1, "green", 5], ["10\nPretzel", 1, "green", 10],
+    ["", 1, "gray", 0], ["20\nPretzel", 1, "gray", 14], ["25\nCrowd\nPleaser", 1, "gray", 17], ["50\nPretzel", 1, "gray", 25],
+    ["100\nPretzel", 1, "green", 1.25], ["500\nPretzel", 1, "green", 3], ["1000\nPretzel", 1, "green", 5], ["Family\nPack", 1, "green", 10],
+    ["Mini\nRow", 1, "gray", 0], ["0", 1, "gray", 0], ["", 1, "gray", 0], ["Rivet\nShaker", 1, "gray", 3],
+    ["Small\nBox", 1, "green", 5], ["Large\nBox", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["Rivet\nBucket", 1, "gray", 14], ["Cinn\nTwist", 1, "gray", 17], ["15 for\n$5.00", 1, "gray", 5],
+    ["NHHD", 1, "green", 1.25], ["NPD", 1, "green", 3], ["3rd\nParty\nDelivery", 1, "green", 5], ["", 1, "green", 10],
+    ["Coupon Pretzels", 1, "blue", 0], ["Custom\nPretzel", 1, "yellow", 14], ["Delivery\nFee", 1, "yellow", 17], ["Wholesale", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ],
+  "tab_7": [
+    ["1\nPretzel", 1, "green", 1.25], ["3\nPretzel", 1, "green", 3], ["5\nPretzel", 1, "green", 5], ["10\nPretzel", 1, "green", 10],
+    ["", 1, "gray", 0], ["20\nPretzel", 1, "gray", 14], ["25\nCrowd\nPleaser", 1, "gray", 17], ["50\nPretzel", 1, "gray", 25],
+    ["100\nPretzel", 1, "green", 1.25], ["500\nPretzel", 1, "green", 3], ["1000\nPretzel", 1, "green", 5], ["Family\nPack", 1, "green", 10],
+    ["Mini\nRow", 1, "gray", 0], ["0", 1, "gray", 0], ["", 1, "gray", 0], ["Rivet\nShaker", 1, "gray", 3],
+    ["Small\nBox", 1, "green", 5], ["Large\nBox", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["Rivet\nBucket", 1, "gray", 14], ["Cinn\nTwist", 1, "gray", 17], ["15 for\n$5.00", 1, "gray", 5],
+    ["NHHD", 1, "green", 1.25], ["NPD", 1, "green", 3], ["3rd\nParty\nDelivery", 1, "green", 5], ["", 1, "green", 10],
+    ["Coupon Pretzels", 1, "blue", 0], ["Custom\nPretzel", 1, "yellow", 14], ["Delivery\nFee", 1, "yellow", 17], ["Wholesale", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ],
+  "tab_8": [
+    ["1\nPretzel", 1, "green", 1.25], ["3\nPretzel", 1, "green", 3], ["5\nPretzel", 1, "green", 5], ["10\nPretzel", 1, "green", 10],
+    ["", 1, "gray", 0], ["20\nPretzel", 1, "gray", 14], ["25\nCrowd\nPleaser", 1, "gray", 17], ["50\nPretzel", 1, "gray", 25],
+    ["100\nPretzel", 1, "green", 1.25], ["500\nPretzel", 1, "green", 3], ["1000\nPretzel", 1, "green", 5], ["Family\nPack", 1, "green", 10],
+    ["Mini\nRow", 1, "gray", 0], ["0", 1, "gray", 0], ["", 1, "gray", 0], ["Rivet\nShaker", 1, "gray", 3],
+    ["Small\nBox", 1, "green", 5], ["Large\nBox", 1, "green", 10], ["", 1, "green", 0], ["", 1, "green", 0],
+    ["", 1, "gray", 0], ["Rivet\nBucket", 1, "gray", 14], ["Cinn\nTwist", 1, "gray", 17], ["15 for\n$5.00", 1, "gray", 5],
+    ["NHHD", 1, "green", 1.25], ["NPD", 1, "green", 3], ["3rd\nParty\nDelivery", 1, "green", 5], ["", 1, "green", 10],
+    ["Coupon Pretzels", 1, "blue", 0], ["Custom\nPretzel", 1, "yellow", 14], ["Delivery\nFee", 1, "yellow", 17], ["Wholesale", 1, "yellow", 25],
+    ["Pretzels", 1, "gray", "tab_1"], ["Party\nTrays", 1, "gray", "tab_2"], ["Meats", 1, "gray", "tab_3"], ["Drinks", 1, "gray", "tab_4"],
+    ["Small\nDips", 1, "gray", "tab_5"], ["Large\nDips", 1, "gray", "tab_6"], ["Icecream", 1, "gray", "tab_7"], ["Promo\nEvents\nSpeciality", 1, "gray", "tab_8"]
+  ]
+}
